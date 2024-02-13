@@ -1,2 +1,2 @@
 # textminingeducation
-Datos del artículo Text Mining in Education
+Datos utilizados en el artículo "Text Mining in Education" en fichero .csv
